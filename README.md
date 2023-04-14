@@ -9,87 +9,64 @@ This library contains a quick way to color the words in the file ansi_colors.py,
 ### - Ansi Colors
 
 This is a Python module that provides color codes for text in the terminal. It has three classes, namely c, bg, and bc, each of which has methods to return color codes for different colors.
-c Class
+#### `c` Class
 
 The c class has methods for foreground color codes, which means the color of the text.
-`black()`
 
-This method returns the color code for black text.
-`red()`
+`black()`This method returns the color code for black text.
 
-This method returns the color code for red text.
-`green()`
+`red()`This method returns the color code for red text.
 
-This method returns the color code for green text.
-`yellow()`
+`green()`This method returns the color code for green text.
 
-This method returns the color code for yellow text.
-`blue()`
+`yellow()`This method returns the color code for yellow text.
 
-This method returns the color code for blue text.
-`magenta()`
+`blue()`This method returns the color code for blue text.
 
-This method returns the color code for magenta text.
-`cyan()`
+`magenta()`This method returns the color code for magenta text.
 
-This method returns the color code for cyan text.
-`white()`
+`cyan()`This method returns the color code for cyan text.
 
-This method returns the color code for white text.
+`white()`This method returns the color code for white text.
 #### `bg` Class
 
-The bg class has methods for background color codes, which means the color behind the text.
-`black()`
+The `bg` class has methods for background color codes, which means the color behind the text.
 
-This method returns the color code for a black background.
-`red()`
+`black()`This method returns the color code for a black background.
 
-This method returns the color code for a red background.
-`green()`
+`red()`This method returns the color code for a red background.
 
-This method returns the color code for a green background.
-`yellow()`
+`green()`This method returns the color code for a green background.
 
-This method returns the color code for a yellow background.
-`blue()`
+`yellow()`This method returns the color code for a yellow background.
 
-This method returns the color code for a blue background.
-`magenta()`
+`blue()`This method returns the color code for a blue background.
 
-This method returns the color code for a magenta background.
-`cyan()`
+`magenta()`This method returns the color code for a magenta background.
 
-This method returns the color code for a cyan background.
-`white()`
+`cyan()`This method returns the color code for a cyan background.
 
-This method returns the color code for a white background.
+`white()`This method returns the color code for a white background.
 #### `bc` Class
 
-The bc class has methods for bright and colored text.
-`black()`
+The `bc` class has methods for bright and colored text.
 
-This method returns the color code for bright and black text.
-`red()`
 
-This method returns the color code for bright and red text.
-`green()`
+`black()`This method returns the color code for bright and black text.
 
-This method returns the color code for bright and green text.
-`yellow()`
+`red()`This method returns the color code for bright and red text.
 
-This method returns the color code for bright and yellow text.
-`blue()`
+`green()`This method returns the color code for bright and green text.
 
-This method returns the color code for bright and blue text.
-`magenta()`
+`yellow()`This method returns the color code for bright and yellow text.
 
-This method returns the color code for bright and magenta text.
-`cyan()`
+`blue()`This method returns the color code for bright and blue text.
 
-This method returns the color code for bright and cyan text.
-`white()`
+`magenta()`This method returns the color code for bright and magenta text.
 
-This method returns the color code for bright and white text.
+`cyan()`This method returns the color code for bright and cyan text.
+
+`white()`This method returns the color code for bright and white text.
 #### Example Usage
 
 Here is an example of how to use the color codes in a Python script:
